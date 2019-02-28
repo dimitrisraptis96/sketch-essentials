@@ -12,3 +12,8 @@ Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your
 8. [Unsplasher](https://github.com/perrysmotors/sketch-unsplasher)
 9. [Lorem Ipsum](https://github.com/whoisryosuke/sketch-lorem-ipsum-2017)
 10. [Chart](https://github.com/pavelkuligin/chart)
+11. [Prism](https://github.com/ment-mx/Prism)
+12. [Anima](https://animaapp.github.io/)
+13. [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)
+14. [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+15. [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin)
