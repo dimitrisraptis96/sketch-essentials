@@ -1,6 +1,6 @@
 # 💎 sketch-plugins
 
-Discover some handy [Sketch](https://www.sketchapp.com/) plugins to help your design process. 
+Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your design workflow.
 
 1. [React-sketcapp](http://airbnb.io/react-sketchapp/) 
 2. [Looper](http://sureskumar.com/looper/)
