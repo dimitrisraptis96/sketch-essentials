@@ -1,5 +1,7 @@
 # 💎 sketch-plugins
+A curated collection of Sketch resources.
 
+## Plugins
 Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your design workflow.
 
 1. [React-sketcapp](http://airbnb.io/react-sketchapp/) 
@@ -17,3 +19,6 @@ Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your
 13. [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)
 14. [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
 15. [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin)
+16. [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
+
+## Video Tutorials
