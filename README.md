@@ -33,7 +33,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 
 ## Tips and Tricks
 
-1. [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
+- [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
 
 ## License
 
