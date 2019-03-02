@@ -34,7 +34,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 ## Tips and Tricks
 
 - [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
-
+- [Bullet-proof row symbols in Sketch](https://medium.com/deliveroo-design/bullet-proof-rows-d185f7ad3a85?ref=fordesignrs)
 ## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
