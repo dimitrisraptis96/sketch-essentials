@@ -31,6 +31,10 @@ Discover some handy Sketch plugins to improve your design workflow.
 6. [Sketch app](https://www.youtube.com/channel/UC-1eTnnUmKJ8yEa1nCnAGpw) - This is the official channel of the app.
 7. [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/playlists?sort=dd&shelf_id=9&view=50) - Covers both basic and advanced Sketch app concepts and many other stuffs besides Sketch.
 
+## Tips and Tricks
+
+1. [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
+
 ## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
