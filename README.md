@@ -20,6 +20,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 14. [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - Organize your symbols page alphabetically (including layer list) and into groupings determined by your symbol names.
 15. [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin) - Pixel Perfecter helps you find pixel imperfect layers in your documents.
 16. [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) - Create buttons with fixed paddings no matter what text you add.
+17. [Sketch Isometric Plugin ](https://github.com/sureskumar/sketch-isometric?ref=fordesignrs) - Generate Isometric and 3D Rotation views from Artboards and Rectangles in Sketch app.
 
 ## Video Tutorials
 
