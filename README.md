@@ -27,7 +27,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 2. [Jesse Showalter](https://www.youtube.com/playlist?list=PLrtjkLnNjGHuH00MTdjQGlAt6Gcm5oFDP) - Tutorials on How to make things, How to use it, plugins and extras and more.
 3. [Joseph from LearnSketch.com](https://www.youtube.com/user/learnsketch) - A place for both new and developing Sketch users to improve their productivity and creativity with the tool. 
 4. [Maex](https://www.youtube.com/playlist?list=PLgwNtYvZGv9Q_rH5RVWYE20dcp4_MLhX_) - The Sketch tutorials feature workflows, plugins and inspiration for new user interfaces.
-5. [Matt D. Smith] (https://www.youtube.com/playlist?list=PLRH-iQQ3liameZu6Do8mYJdm-zCLymXJ1) - Intersting tips and tricks
+5. [Matt D. Smith](https://www.youtube.com/playlist?list=PLRH-iQQ3liameZu6Do8mYJdm-zCLymXJ1) - Intersting tips and tricks
 6. [Sketch app](https://www.youtube.com/channel/UC-1eTnnUmKJ8yEa1nCnAGpw) - This is the official channel of the app.
 7. [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/playlists?sort=dd&shelf_id=9&view=50) - Covers both basic and advanced Sketch app concepts and many other stuffs besides Sketch.
 
