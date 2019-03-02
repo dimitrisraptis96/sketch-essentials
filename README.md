@@ -1,8 +1,8 @@
 # 💎 sketch-plugins
-A curated collection of Sketch resources.
+A curated collection of [Sketch](https://www.sketchapp.com/) resources.
 
 ## Plugins
-Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your design workflow.
+Discover some handy Sketch plugins to improve your design workflow.
 
 1. [React-sketcapp](http://airbnb.io/react-sketchapp/) - Render your React components to Sketch
 2. [Looper](http://sureskumar.com/looper/) - Duplicate, Rotate and Scale the smart way.
@@ -24,3 +24,13 @@ Discover some handy [Sketch](https://www.sketchapp.com/) plugins to improve your
 ## Video Tutorials
 
 1. [Sketch Together](https://www.youtube.com/playlist?list=PLWlUJU11tp4fEXI8deWhBQAHDv9R23WHB) - Fundamentals on Sketch plus some advanced stuff by [Pablo Stanley](https://www.pablostanley.com/).
+
+## License
+
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+&nbsp;
+
+<p align="center">
+<sub><sup>Made with 🤘 by <a href="https://twitter.com/d__raptis">@d__raptis</a></sup></sub>
+</p>
