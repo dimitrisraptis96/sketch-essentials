@@ -1,4 +1,4 @@
-# 💎 sketch-plugins
+# 💎 sketch-goodies
 A curated collection of [Sketch](https://www.sketchapp.com/) resources.
 
 ## Plugins
