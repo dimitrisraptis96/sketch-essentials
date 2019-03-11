@@ -12,6 +12,9 @@ Table of Contents
 2. [Video Tutorials](#video-tutorials)
 3. [Tips and Tricks](#tips-and-tricks)
 
+Resources
+---------
+
 ### Plugins
 Discover some handy Sketch plugins to improve your design workflow.
 
