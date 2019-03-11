@@ -1,10 +1,12 @@
 # 💎 sketch-goodies
 A curated collection of [Sketch](https://www.sketchapp.com/) resources.
 
-## Story 
+Story 
+-----
 Recently, I move my User Interface design workflow from [Adobe XD](https://www.adobe.com/gr_en/products/xd.html) to [Sketch](https://www.sketchapp.com/) app. Thus, I want to share some knowledge and some magical tool that helped me with this transition.
 
-## Plugins
+
+### Plugins
 Discover some handy Sketch plugins to improve your design workflow.
 
 1. [React-sketcapp](http://airbnb.io/react-sketchapp/) - Render your React components to Sketch
@@ -25,7 +27,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 16. [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button) - Create buttons with fixed paddings no matter what text you add.
 17. [Sketch Isometric Plugin ](https://github.com/sureskumar/sketch-isometric?ref=fordesignrs) - Generate Isometric and 3D Rotation views from Artboards and Rectangles in Sketch app.
 
-## Video Tutorials
+### Video Tutorials
 
 1. [Sketch Together](https://www.youtube.com/playlist?list=PLWlUJU11tp4fEXI8deWhBQAHDv9R23WHB) - Fundamentals on Sketch plus some advanced stuff by [Pablo Stanley](https://www.pablostanley.com/).
 2. [Jesse Showalter](https://www.youtube.com/playlist?list=PLrtjkLnNjGHuH00MTdjQGlAt6Gcm5oFDP) - Tutorials on How to make things, How to use it, plugins and extras and more.
@@ -35,17 +37,17 @@ Discover some handy Sketch plugins to improve your design workflow.
 6. [Sketch app](https://www.youtube.com/channel/UC-1eTnnUmKJ8yEa1nCnAGpw) - This is the official channel of the app.
 7. [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/playlists?sort=dd&shelf_id=9&view=50) - Covers both basic and advanced Sketch app concepts and many other stuffs besides Sketch.
 
-## Tips and Tricks
+### Tips and Tricks
 
 - [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
 - [Bullet-proof row symbols in Sketch](https://medium.com/deliveroo-design/bullet-proof-rows-d185f7ad3a85?ref=fordesignrs)
 
-## License
-
+License
+-------
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-## References
-
+References
+----------
 - [Best Sketch Video Tutorial Channels You Should Subscribe](https://medium.com/introcept-hub/best-sketch-video-tutorial-channels-you-should-subscribe-27e007243864)
 - [11 Must-have Sketch Plugins to Improve your Design Workflow](https://medium.com/sketch-app-sources/11-must-have-sketch-plugins-to-improve-your-design-workflow-a4c752e3a036)
 &nbsp;
