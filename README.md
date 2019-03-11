@@ -11,6 +11,7 @@ Table of Contents
 1. [Plugins](#plugins)
 2. [Video Tutorials](#video-tutorials)
 3. [Tips and Tricks](#tips-and-tricks)
+4. [References](#references)
 
 Resources
 ---------
@@ -51,15 +52,14 @@ Discover some handy Sketch plugins to improve your design workflow.
 - [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
 - [Bullet-proof row symbols in Sketch](https://medium.com/deliveroo-design/bullet-proof-rows-d185f7ad3a85?ref=fordesignrs)
 
-License
--------
-[MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-References
-----------
+### References
 - [Best Sketch Video Tutorial Channels You Should Subscribe](https://medium.com/introcept-hub/best-sketch-video-tutorial-channels-you-should-subscribe-27e007243864)
 - [11 Must-have Sketch Plugins to Improve your Design Workflow](https://medium.com/sketch-app-sources/11-must-have-sketch-plugins-to-improve-your-design-workflow-a4c752e3a036)
 &nbsp;
+
+License
+-------
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 <p align="center">
 <sub><sup>Made with 🤘 by <a href="https://twitter.com/d__raptis">@d__raptis</a></sup></sub>
