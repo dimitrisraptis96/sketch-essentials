@@ -3,8 +3,14 @@ A curated collection of [Sketch](https://www.sketchapp.com/) resources.
 
 Story 
 -----
-Recently, I move my User Interface design workflow from [Adobe XD](https://www.adobe.com/gr_en/products/xd.html) to [Sketch](https://www.sketchapp.com/) app. Thus, I want to share some knowledge and some magical tool that helped me with this transition.
+Recently, I move my User Interface design workflow from [Adobe XD](https://www.adobe.com/gr_en/products/xd.html) to [Sketch](https://www.sketchapp.com/) app. Thus, I want to share my hard-earned knowledge and some magical tools that helped me with this transition.
 
+Table of Contents
+-----------------
+
+1. [Plugins](#plugins)
+2. [Video Tutorials](#video-tutorials)
+3. [Tips and Tricks](#tips-and-tricks)
 
 ### Plugins
 Discover some handy Sketch plugins to improve your design workflow.
