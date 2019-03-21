@@ -55,6 +55,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 
 - [8 critical shortcuts in Sketch](https://www.invisionapp.com/inside-design/8-critical-shortcuts-in-sketch/)
 - [Bullet-proof row symbols in Sketch](https://medium.com/deliveroo-design/bullet-proof-rows-d185f7ad3a85?ref=fordesignrs)
+- [Official Sketch app Documentation](https://www.sketch.com/docs/)
 
 ### References
 - [11 Must-have Sketch Plugins to Improve your Design Workflow](https://medium.com/sketch-app-sources/11-must-have-sketch-plugins-to-improve-your-design-workflow-a4c752e3a036)
