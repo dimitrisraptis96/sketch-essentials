@@ -9,7 +9,7 @@ Table of Contents
 -----------------
 
 1. [Plugins](#plugins)
-2. [Design Systems](#design-systems)
+2. [Design Systems](#design-systems-ui-kits)
 3. [Video Tutorials](#video-tutorials)
 4. [Tips and Tricks](#tips-and-tricks)
 5. [References](#references)
@@ -41,11 +41,13 @@ Discover some handy Sketch plugins to improve your design workflow.
 - [Unsplasher](https://github.com/perrysmotors/sketch-unsplasher) - A Sketch plugin for filling shapes and symbols with images from Unsplash.
 - [Zeplin](https://zeplin.io/) - A collaboration tool, built for UI designers and frontend developers.
 
-### Design Systems
+### Design Systems UI kits
 
 - [Atomize](http://atomizedesign.com) - Atomize makes it super easy for designers create a unified design language and auto-updating Style guide for a product.
 - [Cabana](https://cabanadesignsystem.com/) - Cabana is a Premium Design System for Sketch that helps you create amazing products faster than ever before.
+- [Frames](https://framesforsketch.com/) - Design beautiful websites and apps easily, using top-notch components built with an extreme attention to details.
 - [UI Design System](https://uidesignsystem.com/) - A starter kit for Sketch with responsive symbols, a style guide and flexible charts.
+- [UX Power Tools](https://www.uxpower.tools/) - It helps thousands of designers across the globe work faster, stay consistent, and deliver value.
 
 ### Video Tutorials
 
