@@ -43,8 +43,9 @@ Discover some handy Sketch plugins to improve your design workflow.
 
 ### Design Systems
 
-- [Atomize](http://atomizedesign.com) -
-- [Cabana](https://cabanadesignsystem.com/) -
+- [Atomize](http://atomizedesign.com) - Atomize makes it super easy for designers create a unified design language and auto-updating Style guide for a product.
+- [Cabana](https://cabanadesignsystem.com/) - Cabana is a Premium Design System for Sketch that helps you create amazing products faster than ever before.
+- [UI Design System](https://uidesignsystem.com/) - A starter kit for Sketch with responsive symbols, a style guide and flexible charts.
 
 ### Video Tutorials
 
