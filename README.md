@@ -9,9 +9,10 @@ Table of Contents
 -----------------
 
 1. [Plugins](#plugins)
-2. [Video Tutorials](#video-tutorials)
-3. [Tips and Tricks](#tips-and-tricks)
-4. [References](#references)
+2. [Design Systems](#design-systems)
+3. [Video Tutorials](#video-tutorials)
+4. [Tips and Tricks](#tips-and-tricks)
+5. [References](#references)
 
 Resources
 ---------
@@ -40,6 +41,10 @@ Discover some handy Sketch plugins to improve your design workflow.
 - [Unsplasher](https://github.com/perrysmotors/sketch-unsplasher) - A Sketch plugin for filling shapes and symbols with images from Unsplash.
 - [Zeplin](https://zeplin.io/) - A collaboration tool, built for UI designers and frontend developers.
 
+### Design Systems
+
+- [Atomize](http://atomizedesign.com) -
+- [Cabana](https://cabanadesignsystem.com/) -
 
 ### Video Tutorials
 
