@@ -5,7 +5,7 @@ Story
 -----
 Recently, I move my User Interface design workflow from [Adobe XD](https://www.adobe.com/gr_en/products/xd.html) to [Sketch](https://www.sketchapp.com/) app. Thus, I want to share my hard-earned knowledge and some magical tools that helped me with this transition.
 
-<a href="https://icons8.com/ouch">
+<a href="https://icons8.com">
   <p align="center">
     <img src="assets/story.png" width="100%">
   </p>
