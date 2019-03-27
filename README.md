@@ -7,7 +7,7 @@ Recently, I move my User Interface design workflow from [Adobe XD](https://www.a
 
 <a href="https://icons8.com">
   <p align="center">
-    <img src="assets/story.png" width="100%">
+    <img src="assets/story.png" width="30%">
   </p>
 </a>
 
