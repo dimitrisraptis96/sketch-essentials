@@ -43,6 +43,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 - [React-sketcapp](http://airbnb.io/react-sketchapp/) - Render your React components to Sketch
 - [Sketch Isometric Plugin ](https://github.com/sureskumar/sketch-isometric?ref=fordesignrs) - Generate Isometric and 3D Rotation views from Artboards and Rectangles in Sketch app.
 - [Stark](https://www.getstark.co/) - The plugin to help you design and build products that are accessible, ethical, and inclusive.
+- [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator) - Generate hundreds of Sketch Shared Styles in a matter of seconds.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer) - Organize your symbols page alphabetically (including layer list) and into groupings determined by your symbol names.
 - [Unsplasher](https://github.com/perrysmotors/sketch-unsplasher) - A Sketch plugin for filling shapes and symbols with images from Unsplash.
 - [Zeplin](https://zeplin.io/) - A collaboration tool, built for UI designers and frontend developers.
