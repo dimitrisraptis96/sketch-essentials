@@ -41,6 +41,7 @@ Discover some handy Sketch plugins to improve your design workflow.
 - [Pixel Perfecter](https://github.com/swiadek/pixel-perfecter-sketch-plugin) - Pixel Perfecter helps you find pixel imperfect layers in your documents.
 - [Prism](https://github.com/ment-mx/Prism) - Creates a beautiful artboard color palette with all your 'Document Colors' and their respective color label in a variety of formats.
 - [React-sketcapp](http://airbnb.io/react-sketchapp/) - Render your React components to Sketch
+- [Rename It](https://rodi01.github.io/RenameIt/) - Keep your Sketch files organized, batch rename layers and artboards.
 - [Sketch Isometric Plugin ](https://github.com/sureskumar/sketch-isometric?ref=fordesignrs) - Generate Isometric and 3D Rotation views from Artboards and Rectangles in Sketch app.
 - [Stark](https://www.getstark.co/) - The plugin to help you design and build products that are accessible, ethical, and inclusive.
 - [Sketch Styles Generator](https://github.com/lucaorio/sketch-styles-generator) - Generate hundreds of Sketch Shared Styles in a matter of seconds.
